@@ -1,0 +1,28 @@
+.container {
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: auto;
+    width: 85%;
+    background: rgb(93, 97, 93);
+}
+
+fieldset {
+    margin-bottom: 10px;
+
+}
+
+legend {
+    border: solid 1px;
+    padding: 5px;
+    font-weight: bold;
+    
+    
+}
+
+.foto {
+    border: solid 2px;
+    margin: 10px;    
+    width: 200px;
+    height: 200px;
+}
+
